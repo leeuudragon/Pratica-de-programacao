@@ -17,7 +17,7 @@ public class CalculadoraDoisNumeros {
         System.out.print("Calculadora de dois números:");
 
         do {
-            System.out.print("Qual operação deseja realizar?");
+            System.out.print("\n\nQual operação deseja realizar?");
             System.out.print("\n\n1 - soma");
             System.out.print("\n2 - subtração");
             System.out.print("\n3 - multiplacação");
