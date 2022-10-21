@@ -1,5 +1,5 @@
 public class Circunferencia {
-    static double circunferencia(double raio){
+    static double circunferencia(double raio) {
         return 2 * Math.PI * raio;
     }
 
