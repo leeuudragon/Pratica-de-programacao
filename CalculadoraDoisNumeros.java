@@ -23,7 +23,7 @@ public class CalculadoraDoisNumeros {
             System.out.print("\n3 - multiplacação");
             System.out.print("\n4 - divisão\n\n");
             opcao = leitor.nextInt();
-        } while (opcao > 4);
+        } while (opcao > 4 || opcao < 1);
 
 
         System.out.print("\nInforme o primeiro número: ");
