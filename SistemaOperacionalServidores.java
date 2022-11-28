@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class SistemaOperacionalServidores {
+public class SistemaOperacionalServidores { //Pesquisa sobre qual é o melhor sistema operacional para servidores.
     public static void main(String[] args) {
         //Variáveis
 
