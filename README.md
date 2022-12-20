@@ -1,3 +1,3 @@
 # Pratica-de-programacao
 
-Onde coloco meus códigos desenvolvidos.
+Códigos desenvolvidos em sala de aula.
